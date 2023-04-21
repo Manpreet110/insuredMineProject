@@ -1,3 +1,4 @@
+//FOR WORKING AND RUNNING THE APPLICATION PLEASE CONSIDER README FILE
 import React, { useState } from "react";
 
 const App = () => {
